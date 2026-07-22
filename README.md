@@ -35,7 +35,7 @@ Welcome to my Data Structures and Algorithms learning journey using Python.
 
 | Topic | Solved |
 |--------|--------|
-| Arrays | 1 |
+| Arrays | 26 |
 | Strings | 0 |
 | Trees | 0 |
 | Graphs | 0 |
