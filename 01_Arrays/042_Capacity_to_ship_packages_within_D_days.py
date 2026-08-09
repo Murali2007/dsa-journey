@@ -22,6 +22,7 @@ Time Complexity: O(n log(sum(weights)))
 
 Space Complexity: O(1)
 """
+
 class Solution(object):
     def shipWithinDays(self, weights, days):
         low = max(weights)
